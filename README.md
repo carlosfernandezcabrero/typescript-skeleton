@@ -1,8 +1,8 @@
-# Javascript API Skeleton
+# Typescript API Skeleton
 
 ## Description
 
-Javascript skeleton for developing Node.js applications with Javascript. The skeleton have integrated EsLint for lint code and Prettier for format code.
+Typescript skeleton for developing Node.js applications with Typescript. The skeleton have integrated EsLint for lint code and Prettier for format code.
 
 ## Usage
 
