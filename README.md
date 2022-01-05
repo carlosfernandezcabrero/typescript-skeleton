@@ -1,4 +1,4 @@
-# Typescript API Skeleton
+# Typescript Skeleton
 
 ## Description
 
